@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/hansschuijff/Visual-Hooks
  * GitHub Plugin URI: https://github.com/hansschuijff/Visual-Hooks
  * Description: Make the locations and names of hooks visible. Supports Genesis child-themes, The Event Calendar plugin and WooCommerce.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Hans Schuijff
  * Author URI: https://dewitteprins.nl
  * Text Domain: visual-hooks
